@@ -1,0 +1,10 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local workspace runtime state
+.clawhub/
+.openclaw/
+
+# Local session memory
+memory/
